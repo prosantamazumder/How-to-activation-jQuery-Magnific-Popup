@@ -17,7 +17,10 @@
         </a>
     </div>
 </code></pre>
-
+pre {
+  background-color: #eee;
+  border-radius: 5px;
+}
 
 
 > main js or active js
