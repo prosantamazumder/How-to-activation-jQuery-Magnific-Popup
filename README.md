@@ -10,13 +10,13 @@
 
 > index html
 
-<code>
+<pre><code>
     <div class="popup-container">     
         <a href="images_path_here">
             <img src="images_path_here" alt="" />
         </a>
     </div>
-</code>
+</code></pre>
 
 
 
