@@ -18,8 +18,7 @@
 </code></pre>
 
 
-`
-     
+<pre><code>
      $('.popup-container').magnificPopup({
     
         delegate: 'a',
@@ -38,7 +37,8 @@
             
         }
         
-    });`
+    });
+</code></pre>
     
 
 ### Table
