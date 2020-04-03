@@ -8,17 +8,21 @@
 
 ## Initializing popup
 
-> index.html
-<code><div class="popup-container">     
-    <a href="images_path_here">
-        <img src="images_path_here" alt="" />
-    </a>
-</div></code>
+> index html
+
+<code>
+    <div class="popup-container">     
+        <a href="images_path_here">
+            <img src="images_path_here" alt="" />
+        </a>
+    </div>
+</code>
 
 
 
-> main.js or active.js
-   `// Initialize MagnificPopup Plugin
+> main js or active js
+
+`// Initialize MagnificPopup Plugin
     $('.popup-container').magnificPopup({
         delegate: 'a',
         type:'image',
@@ -28,7 +32,8 @@
             duration: 300,
             easing: 'ease-in-out'
         }
-    });`
+    });
+`
 
 
 ### Table
