@@ -9,11 +9,11 @@
 ## Initializing popup
 
 > index.html
-`<div class="popup-container">     
+<code><div class="popup-container">     
     <a href="images_path_here">
         <img src="images_path_here" alt="" />
     </a>
-</div>`
+</div></code>
 
 
 
