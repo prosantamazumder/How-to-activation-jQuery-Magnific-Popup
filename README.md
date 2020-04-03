@@ -6,7 +6,7 @@
 *italicized text*
 > blockquote
 
-## Initializing popup
+## Initialize MagnificPopup Plugin
 
 > index html
 
@@ -21,18 +21,12 @@
 
 > main js or active js
 
-`// Initialize MagnificPopup Plugin
-
+`
     $('.popup-container').magnificPopup({
-    
         delegate: 'a',
-        
         type:'image',
-        
         gallery:{enabled:true},
-        
         zoom:{
-        
             enabled:true,
             
             duration: 300,
