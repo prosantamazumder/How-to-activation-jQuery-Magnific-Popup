@@ -19,15 +19,15 @@
 
 
 <pre><code>
-     $('.popup-container').magnificPopup({<br />
-        delegate: 'a',\
-        type:'image',\
-        gallery:{enabled:true},\
-        zoom:{\
-            enabled:true,\
-            duration: 300,\
-            easing: 'ease-in-out'\
-        }\
+     $('.popup-container').magnificPopup({
+        delegate: 'a',
+        type:'image',
+        gallery:{enabled:true},
+        zoom:{
+            enabled:true,
+            duration: 300,
+            easing: 'ease-in-out'
+        }
     });
 </code></pre>
     
