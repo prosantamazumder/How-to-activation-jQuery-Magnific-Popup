@@ -11,9 +11,9 @@
 
 <pre><code>
     &lt;div class="popup-container"&gt;
-    &lt;a href="images_path_here"&gt;
-    &lt;img src="images_path_here" alt="" /&gt;
-    &lt;/a&gt;
+        &lt;a href="images_path_here"&gt;
+            &lt;img src="images_path_here" alt="" /&gt;
+        &lt;/a&gt;
     &lt;/div&gt;
 </code></pre>
 
