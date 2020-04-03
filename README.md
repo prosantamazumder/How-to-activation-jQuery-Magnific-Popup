@@ -17,24 +17,31 @@
         </a>
     </div>
 </code></pre>
-pre {
-  background-color: #eee;
-  border-radius: 5px;
-}
 
 
 > main js or active js
-[`// Initialize MagnificPopup Plugin
+
+`// Initialize MagnificPopup Plugin
+
     $('.popup-container').magnificPopup({
+    
         delegate: 'a',
+        
         type:'image',
+        
         gallery:{enabled:true},
+        
         zoom:{
+        
             enabled:true,
+            
             duration: 300,
+            
             easing: 'ease-in-out'
+            
         }
-    });`]
+        
+    });`
     
 
 ### Table
