@@ -21,9 +21,6 @@
 > main.js or active.js
 
 `
-(function ($) {
-    "use strict";
-
     // Initialize MagnificPopup Plugin
     $('.popup-container').magnificPopup({
         delegate: 'a',
@@ -35,8 +32,6 @@
             easing: 'ease-in-out'
         }
     });
-
-})(jQuery);
 `
 
 
@@ -57,7 +52,7 @@
 [Linkedin:](https://www.linkedin.com/in/prosantomazumder/)\
 [Twitter:](https://twitter.com/prosantomazumd1)\
 [Instagram:](https://www.instagram.com/prosantomazumder/)\
-[Codepen:](https://codepen.io/ProsantaMazumder)\
+[Codepen:](https://codepen.io/ProsantaMazumder)
 
 
 ### Changelog
