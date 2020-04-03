@@ -8,6 +8,7 @@
 
 ## Initialize Magnific Popup Plugin
 
+##### index.html
 
 <pre><code>
     &lt;div class="popup-container"&gt;
@@ -17,6 +18,7 @@
     &lt;/div&gt;
 </code></pre>
 
+##### active.js
 
 <pre><code>
      $('.popup-container').magnificPopup({
@@ -31,14 +33,6 @@
     });
 </code></pre>
     
-
-### Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 
 ### Ask Any Question or if you need help contact me 24/7 we are ready support team.
 
