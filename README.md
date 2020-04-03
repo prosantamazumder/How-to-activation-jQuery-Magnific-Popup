@@ -21,8 +21,7 @@
 
 
 > main js or active js
-
-`// Initialize MagnificPopup Plugin
+[`// Initialize MagnificPopup Plugin
     $('.popup-container').magnificPopup({
         delegate: 'a',
         type:'image',
@@ -32,9 +31,8 @@
             duration: 300,
             easing: 'ease-in-out'
         }
-    });
-`
-
+    });`]
+    
 
 ### Table
 
