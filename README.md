@@ -10,15 +10,18 @@
 
 > index.html
 
-`<div class="popup-container">     
-    <a href="https://farm4.staticflickr.com/3403/3657053401_3e106f8b51_z.jpg?zz=1">
-        <img src="https://farm4.staticflickr.com/3403/3657053401_3e106f8b51_z.jpg?zz=1" alt="" />
+`
+<div class="popup-container">     
+    <a href="images_path_here">
+        <img src="images_path_here" alt="" />
     </a>
-</div>`
+</div>
+`
 
 > main.js or active.js
 
-`(function ($) {
+`
+(function ($) {
     "use strict";
 
     // Initialize MagnificPopup Plugin
@@ -33,14 +36,8 @@
         }
     });
 
-})(jQuery);`
-
-
----
-
-[title](https://www.example.com)
-
-![alt text](image.jpg)
+})(jQuery);
+`
 
 
 ### Table
@@ -53,14 +50,14 @@
 
 ### Ask Any Question or if you need help contact me 24/7 we are ready support team.
 
-[Facebook:](https://www.facebook.com/PMPROSANTA0)
-[Web:](http://presstechit-institute.com/)
-[Personal:](http://pm-prosanto.themefusions.com/)
-[Email Me:](mailto:prosantomazumder@gmail.com)
-[Linkedin:](https://www.linkedin.com/in/prosantomazumder/)
-[Twitter:](https://twitter.com/prosantomazumd1)
-[Instagram:](https://www.instagram.com/prosantomazumder/)
-[Codepen:](https://codepen.io/ProsantaMazumder)
+[Facebook:](https://www.facebook.com/PMPROSANTA0)<br />
+[Web:](http://presstechit-institute.com/)\
+[Personal:](http://pm-prosanto.themefusions.com/)\
+[Email Me:](mailto:prosantomazumder@gmail.com)\
+[Linkedin:](https://www.linkedin.com/in/prosantomazumder/)\
+[Twitter:](https://twitter.com/prosantomazumd1)\
+[Instagram:](https://www.instagram.com/prosantomazumder/)\
+[Codepen:](https://codepen.io/ProsantaMazumder)\
 
 
 ### Changelog
