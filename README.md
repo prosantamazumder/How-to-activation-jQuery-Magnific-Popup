@@ -8,7 +8,6 @@
 
 ## Initialize MagnificPopup Plugin
 
-> index html
 
 <pre><code>
     <div class="popup-container">     
@@ -18,8 +17,6 @@
     </div>
 </code></pre>
 
-
-> main js or active js
 
 `
     $('.popup-container').magnificPopup({
