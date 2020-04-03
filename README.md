@@ -6,7 +6,7 @@
 *italicized text*
 > blockquote
 
-## Initialize MagnificPopup Plugin
+## Initialize Magnific Popup Plugin
 
 
 <pre><code>
@@ -19,7 +19,8 @@
 
 
 `
-    $('.popup-container').magnificPopup({
+     
+     $('.popup-container').magnificPopup({
     
         delegate: 'a',
         
